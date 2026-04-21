@@ -268,6 +268,9 @@ host all all 0.0.0.0/0 md5
 sudo systemctl restart postgresql
 ```
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7bfc622b-28c7-462f-80cb-6343efb3b23b" />
+
+
 ---
 
 # PARTE 5: api1
@@ -294,6 +297,9 @@ Ejecutar:
 ```
 uvicorn main:app --host 0.0.0.0 --port 8000
 ```
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b052f1d8-d762-4444-a85f-8ef1f9a1b5ec" />
+
 
 ---
 
