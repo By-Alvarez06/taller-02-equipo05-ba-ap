@@ -331,6 +331,9 @@ Ejecutar:
 streamlit run app.py --server.address 0.0.0.0
 ```
 
+<img width="821" height="578" alt="imagen" src="https://github.com/user-attachments/assets/bf180349-1100-4f91-91d5-0f19be579988" />
+
+
 ---
 
 # PARTE 8: Verificar
@@ -338,6 +341,16 @@ streamlit run app.py --server.address 0.0.0.0
   * En función de la IP del server de visualización, verificar que todo funcione
   * Agregar capturas de pantalla del funcionamiento de todas las máquinas virtuales, API funcionando, Streamlit funcionando, base de datos con datos
   * Agregar las capturas de pantalla en un archivo llamado EVIDENCIAS.md
+
+## Evidencias
+
+
+### Visualización desde el entorno local, llamando a la IP del server de visualización
+<img width="1600" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/6ae5408d-4fd5-4a49-91bf-d09b285e0724" />
+
+### Máquinas virtuales en funcionamiento
+<img width="1600" height="1000" alt="imagen" src="https://github.com/user-attachments/assets/e5103f26-12ec-4439-b5af-2a6614a7d03f" />
+
 
 ---
 
